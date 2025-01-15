@@ -8,12 +8,6 @@
   <em>PhD Student at UCAS · Exploring Go & Kubernetes</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ElectricFish7&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views"/>
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ElectricFish7?label=Follow&style=flat-square" />
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/ElectricFish7?style=flat-square" />
-</p>
-
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ElectricFish7&show_icons=true&count_private=true&hide_title=true&theme=radical"/>
 </div>
