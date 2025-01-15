@@ -25,29 +25,16 @@
 
 ## Tech & Tools
 
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-</p>
-
----
-
-## Stats
+</div>
 
 <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElectricFish7&layout=compact&theme=radical&hide_title=true" />
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ElectricFish7&theme=radical&hide_border=true" />
 </div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ElectricFish7&theme=radical&column=7" alt="trophy"/>
-  </a>
-</div>
-
----
 
 ## Connect with Me
 
