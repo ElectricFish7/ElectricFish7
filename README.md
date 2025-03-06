@@ -34,16 +34,3 @@
 ![Streak Stats](https://streak-stats.demolab.com?user=ElectricFish7&theme=catppuccin-latte&hide_border=true&background=FFFFFF00)
 
 </div>
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:wuyq2023@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
-  </a>
-  <a href="http://www.wuyq.net">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog">
-  </a>
-</p>
