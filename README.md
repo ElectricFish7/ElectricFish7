@@ -8,22 +8,38 @@
   <em>PhD Student at UCAS · Exploring Go & Kubernetes</em>
 </p>
 
+<table align="center">
+  <tr>
+    <td style="padding-right: 20px;">
+      <h2>About Me</h2>
+      <ul>
+        <li>🔭 <b>I’m currently a PhD student</b> at UCAS</li>
+        <li>🤔 Learning <b>Go</b> and <b>K8s</b></li>
+        <li>🌱 <b>Contact me</b>: <a href="mailto:wuyq2023@outlook.com">wuyq2023@outlook.com</a></li>
+        <li>:mag: <b>My blog</b>: <a href="https://www.wuyq.net">www.wuyq.net</a></li>
+      </ul>
+      <p>
+        <a href="mailto:wuyq2023@outlook.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
+        </a>
+        <a href="https://www.wuyq.net">
+          <img src="https://img.shields.io/badge/Blog-21759B?style=flat-square&logo=WordPress&logoColor=white" alt="Blog" />
+        </a>
+      </p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="200" />
+    </td>
+  </tr>
+</table>
+
+
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ElectricFish7&show_icons=true&count_private=true&hide_title=true&theme=radical"/>
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElectricFish7&show_icons=true&theme=catppuccin_latte&hide_border=true&bg_color=ffffff" alt="ElectricFish7's Profile Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElectricFish7&layout=compact&theme=catppuccin_latte&hide_border=true&langs_count=6&bg_color=ffffff" alt="ElectricFish7's Top Langs" /> |
+| ------------- | ------------- |
+
 </div>
-
----
-
-## About Me
-
-- 🔭 **I’m currently a PhD student** at UCAS  
-- 🤔 Learning **Go** and **K8s**  
-- 🌱 **Contact me**: [wuyq2023@outlook.com](mailto:wuyq2023@outlook.com)  
-- :mag: **My blog**: [www.wuyq.net](https://www.wuyq.net)
-
----
-
-## Tech & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
@@ -33,25 +49,3 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </div>
-
-<div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElectricFish7&layout=compact&theme=radical&hide_title=true" />
-</div>
-
-## Connect with Me
-
-<p>
-  <a href="mailto:wuyq2023@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.wuyq.net">
-    <img src="https://img.shields.io/badge/Blog-21759B?style=flat-square&logo=WordPress&logoColor=white" alt="Blog" />
-  </a>
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="200" />
-</p>
